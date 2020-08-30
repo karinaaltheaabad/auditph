@@ -28,6 +28,11 @@ body {
         font-size: 330%;
         margin-top: 5%;
     }
+
+    .careers-jumbotron .careers-header {
+        font-size: 500% !important;
+        color: white;
+    }
 }
 
 /*#title {*/
@@ -154,21 +159,21 @@ body {
 
 .footer #footertitle {
     font-family: "Book Antiqua", serif;
-    line-height: 0.5;
+    line-height: 1;
     font-size: 177%;
     color: white;
 }
 
 .footer #footersubtitle1{
     font-family: "Book Antiqua", serif;
-    line-height: 0.5;
+    line-height: 1;
     font-size: 120%;
     color: white;
 }
 
 .footer .footersubtitle{
     font-family: "Helvetica", serif;
-    line-height: 0.5;
+    line-height: 1;
     font-size: 120%;
     color: white;
     font-weight: 200;
