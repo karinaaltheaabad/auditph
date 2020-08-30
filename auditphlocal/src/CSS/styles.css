@@ -35,6 +35,7 @@
     background: url("../../images/city.jpg") no-repeat center;
     background-size: cover;
     width: 100%;
+    margin-top: 7% !important;
 }
 
 .index-jumbotron .display-2 {
@@ -50,6 +51,11 @@
 /*JUMBOTRON END*/
 
 /*ABOUT*/
+.about-p {
+    vertical-align: center !important;
+    margin-top: 7%;
+}
+
 .about {
     font-family: "Helvetica Neue", serif;
     color: midnightblue;
@@ -222,23 +228,25 @@
 }
 
 .contact {
+    vertical-align: center;
+    margin-top: 8%;
     background-color: #CEDFE2;
 }
 /*/CONTACT PAGE*/
 
 /*CAREERS PAGE*/
 .careers-jumbotron {
-    height: 500px;
+    height: 600px;
     background: url("../../images/team.jpg") no-repeat center;
     background-size: cover;
 }
 
 .careers-jumbotron .careers-header {
     font-weight: 800;
-    margin-top: -4%;
-    font-size: 140px;
+    font-size: 170px;
+    margin-top: -1%;
     font-family: "Helvetica Neue", serif;
-    color: steelblue;
+    color: white;
 }
 
 .careers-subheader {
