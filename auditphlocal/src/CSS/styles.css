@@ -1,0 +1,279 @@
+/*MAIN INDEX PAGE*/
+/*NAVBAR*/
+.navbar {
+    background-color: white !important;
+    width: 100% !important;
+}
+#title {
+    font-family: "Book Antiqua", serif;
+    font-size: 200%;
+    color: #052331;
+    line-height: 1;
+}
+
+#subtitle {
+    font-family: "Book Antiqua", serif;
+    line-height: 0;
+    font-size: 137%;
+    color: #052331;
+}
+
+.navbar li {
+    font-family: "Helvetica Neue", serif;
+    font-weight: 100;
+    font-size: 160%;
+}
+
+.navbar li a {
+    color: #052331 !important;
+}
+/*NAVBAR END*/
+
+/*JUMBOTRON*/
+.index-jumbotron {
+    height: 800px;
+    background: url("../../images/city.jpg") no-repeat center;
+    background-size: cover;
+    width: 100%;
+}
+
+.index-jumbotron .display-2 {
+    color: black;
+    font-weight: 500;
+}
+
+.index-jumbotron .lead {
+    font-size: 150%;
+    font-weight: 100;
+    color: black;
+}
+/*JUMBOTRON END*/
+
+/*ABOUT*/
+.about {
+    font-family: "Helvetica Neue", serif;
+    color: midnightblue;
+    background-color: #F7F9FA;
+    margin-top: -6% !important;
+}
+
+.vision {
+    font-family: "Helvetica Neue", serif;
+    font-size: 200% !important;
+    background-color: #052331;
+}
+
+.vision .maintext {
+    font-family: "Helvetica Neue", serif;
+    font-weight: 400;
+    color: white;
+}
+/*ABOUT END*/
+
+/*MISSION VISION*/
+.about .missioncard {
+    font-family: "Helvetica Neue", serif;
+    background-color: white;
+    min-height: 300%;
+    color: #052331;
+    width: 100% !important;
+}
+
+.missioncard h3 {
+    font-weight: 600;
+    font-size: 34px;
+}
+
+.missioncard h5 {
+    font-size: 20px;
+    font-weight: 100;
+    color: dimgrey;
+}
+
+.icon {
+    font-size: 97px;
+    color: #4c8bf5;
+}
+
+.about .vision {
+    font-size: 200% !important;
+    background-color: white;
+    color: #052331;
+}
+
+.shadow {
+    background-color: #B9BABB;
+    height: 30%;
+}
+/*MISSION VISION END*/
+
+/*SERVICES*/
+.services {
+    width: 98%;
+    margin: 0 auto !important;
+    margin-top: -1% !important;
+}
+
+.services .list {
+    font-weight: 500;
+    font-family: "Helvetica Neue", serif;
+    font-size: 330%;
+}
+
+.services .col {
+    height: 500px;
+    max-height: 500px;
+    background-color: #F7F9FA;
+}
+
+.services .col1 {
+    background: url("../../images/financialstatementaudit.jpg") no-repeat center;
+    background-size: cover;
+    color: white;
+}
+
+.services .col2 {
+    background: url("../../images/Duediligence.jpg") no-repeat center;
+    background-size: cover;
+}
+
+.services .col3 {
+    background: url("../../images/mng.jpg") no-repeat center;
+    background-size: cover;
+}
+
+.services .col4 {
+    background: url("../../images/taxconsultancy.jpg") no-repeat center;
+    background-size: cover;
+    color: white;
+}
+
+/*SERVICES END*/
+
+/*ACCREDITATIONS*/
+.accreditation img {
+    width:  200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.accreditation .text-center {
+    font-size: 60px;
+}
+/*ACCREDITATION END*/
+
+/*FOOTER*/
+.footer {
+    background-color: #052331;
+    margin: 0 auto !important;
+    bottom: 0;
+    width: 100%;
+}
+
+.footer #footertitle {
+    font-family: "Book Antiqua", serif;
+    line-height: 1;
+    font-size: 177%;
+    color: white;
+}
+
+.footer .footersubtitle{
+    font-family: "Univers", serif;
+    line-height: 1;
+    font-size: 120%;
+    color: white;
+}
+
+.footer .subfooter {
+    font-family: "Helvetica Neue", serif;
+    font-weight: 200 !important;
+    color: white;
+}
+
+.footer h5{
+    font-family: "Helvetica Neue", serif;
+    font-weight: 400 !important;
+    color: white;
+}
+/*FOOTER END*/
+
+/*COPYRIGHTS*/
+.copyrights {
+    background-color: #CEDFE2;
+    margin: 0 auto !important;
+    display: inline-flex;
+    width: 100%;
+}
+/*/COPYRIGHTS*/
+/*/MAIN INDEX PAGE*/
+
+/*CONTACT PAGE*/
+.contact .contact-subheader {
+    font-family: "Helvetica Neue", serif;
+    font-weight: 200;
+}
+
+.contact .message {
+    height: 300px;
+}
+
+.contact .content h1 {
+    font-size: 80px;
+}
+
+.contact {
+    background-color: #CEDFE2;
+}
+/*/CONTACT PAGE*/
+
+/*CAREERS PAGE*/
+.careers-jumbotron {
+    height: 500px;
+    background: url("../../images/team.jpg") no-repeat center;
+    background-size: cover;
+}
+
+.careers-jumbotron .careers-header {
+    font-weight: 800;
+    margin-top: -4%;
+    font-size: 140px;
+    font-family: "Helvetica Neue", serif;
+    color: steelblue;
+}
+
+.careers-subheader {
+    font-family: "Helvetica Neue", serif;
+    font-size: 400%;
+    color: #052331;
+}
+
+.career-subtitle {
+    font-size: 200%;
+    font-weight: 300;
+    font-family: "Helvetica Neue", serif;
+}
+
+.careers-main li {
+    font-family: "Helvetica Neue", serif;
+    font-size: 130%;
+    font-weight: 300;
+}
+
+.career-info {
+    font-size: 170%;
+    font-weight: 300;
+    font-family: "Helvetica Neue", serif;
+}
+/*CAREERS PAGE*/
+
+/*ABOUT PAGE*/
+.about-mission {
+    transform: rotate(90deg);
+    transform-origin: left top 0;
+}
+
+.about-vision {
+    transform: rotate(90deg);
+    transform-origin: left top 0;
+}
+/*/ABOUT PAGE*/
