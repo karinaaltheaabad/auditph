@@ -1,22 +1,48 @@
+body {
+    padding-top: 50px;
+}
 /*MAIN INDEX PAGE*/
 /*NAVBAR*/
 .navbar {
     background-color: white !important;
     width: 100% !important;
 }
-#title {
-    font-family: "Book Antiqua", serif;
-    font-size: 200%;
-    color: #052331;
-    line-height: 1;
+
+.navbar button {
+    position: absolute;
 }
 
-#subtitle {
-    font-family: "Book Antiqua", serif;
-    line-height: 0;
-    font-size: 137%;
-    color: #052331;
+.navbar a img{
+    width: 45%;
+    height: 45%;
 }
+
+@media (max-width: 768px) {
+    .navbar a img{
+        width: 75%;
+        margin-left: 18%;
+    }
+
+    .index-jumbotron .display-2 {
+        font-weight: 500;
+        font-size: 330%;
+        margin-top: 5%;
+    }
+}
+
+/*#title {*/
+/*    font-family: "Book Antiqua", serif;*/
+/*    font-size: 200%;*/
+/*    color: #052331;*/
+/*    line-height: 1;*/
+/*}*/
+
+/*#subtitle {*/
+/*    font-family: "Book Antiqua", serif;*/
+/*    line-height: 0;*/
+/*    font-size: 137%;*/
+/*    color: #052331;*/
+/*}*/
 
 .navbar li {
     font-family: "Helvetica Neue", serif;
@@ -31,48 +57,21 @@
 
 /*JUMBOTRON*/
 .index-jumbotron {
-    height: 800px;
+    height: 90vmin;
     background: url("../../images/city.jpg") no-repeat center;
     background-size: cover;
-    width: 100%;
-    margin-top: 7% !important;
 }
 
 .index-jumbotron .display-2 {
-    color: black;
     font-weight: 500;
-}
-
-.index-jumbotron .lead {
-    font-size: 150%;
-    font-weight: 100;
-    color: black;
 }
 /*JUMBOTRON END*/
 
 /*ABOUT*/
-.about-p {
-    vertical-align: center !important;
-    margin-top: 7%;
-}
-
 .about {
     font-family: "Helvetica Neue", serif;
-    color: midnightblue;
     background-color: #F7F9FA;
     margin-top: -6% !important;
-}
-
-.vision {
-    font-family: "Helvetica Neue", serif;
-    font-size: 200% !important;
-    background-color: #052331;
-}
-
-.vision .maintext {
-    font-family: "Helvetica Neue", serif;
-    font-weight: 400;
-    color: white;
 }
 /*ABOUT END*/
 
@@ -99,17 +98,6 @@
 .icon {
     font-size: 97px;
     color: #4c8bf5;
-}
-
-.about .vision {
-    font-size: 200% !important;
-    background-color: white;
-    color: #052331;
-}
-
-.shadow {
-    background-color: #B9BABB;
-    height: 30%;
 }
 /*MISSION VISION END*/
 
@@ -156,18 +144,6 @@
 
 /*SERVICES END*/
 
-/*ACCREDITATIONS*/
-.accreditation img {
-    width:  200px;
-    height: 200px;
-    object-fit: cover;
-}
-
-.accreditation .text-center {
-    font-size: 60px;
-}
-/*ACCREDITATION END*/
-
 /*FOOTER*/
 .footer {
     background-color: #052331;
@@ -178,16 +154,24 @@
 
 .footer #footertitle {
     font-family: "Book Antiqua", serif;
-    line-height: 1;
+    line-height: 0.5;
     font-size: 177%;
     color: white;
 }
 
-.footer .footersubtitle{
-    font-family: "Univers", serif;
-    line-height: 1;
+.footer #footersubtitle1{
+    font-family: "Book Antiqua", serif;
+    line-height: 0.5;
     font-size: 120%;
     color: white;
+}
+
+.footer .footersubtitle{
+    font-family: "Helvetica", serif;
+    line-height: 0.5;
+    font-size: 120%;
+    color: white;
+    font-weight: 200;
 }
 
 .footer .subfooter {
@@ -229,22 +213,20 @@
 
 .contact {
     vertical-align: center;
-    margin-top: 8%;
     background-color: #CEDFE2;
 }
 /*/CONTACT PAGE*/
 
 /*CAREERS PAGE*/
 .careers-jumbotron {
-    height: 600px;
+    height: 60vmin;
     background: url("../../images/team.jpg") no-repeat center;
     background-size: cover;
 }
 
 .careers-jumbotron .careers-header {
     font-weight: 800;
-    font-size: 170px;
-    margin-top: -1%;
+    font-size: 700%;
     font-family: "Helvetica Neue", serif;
     color: white;
 }
@@ -275,13 +257,7 @@
 /*CAREERS PAGE*/
 
 /*ABOUT PAGE*/
-.about-mission {
-    transform: rotate(90deg);
-    transform-origin: left top 0;
-}
-
-.about-vision {
-    transform: rotate(90deg);
-    transform-origin: left top 0;
+.about-p {
+    vertical-align: center !important;
 }
 /*/ABOUT PAGE*/
