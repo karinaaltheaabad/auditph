@@ -17,46 +17,15 @@ body {
     height: 45%;
 }
 
-@media (max-width: 768px) {
-    .navbar a img{
-        width: 75%;
-        margin-left: 18%;
-    }
-
-    .index-jumbotron .display-2 {
-        font-weight: 500;
-        font-size: 330%;
-        margin-top: 5%;
-    }
-
-    .careers-jumbotron .careers-header {
-        font-size: 500% !important;
-        color: white;
-    }
-}
-
-/*#title {*/
-/*    font-family: "Book Antiqua", serif;*/
-/*    font-size: 200%;*/
-/*    color: #052331;*/
-/*    line-height: 1;*/
-/*}*/
-
-/*#subtitle {*/
-/*    font-family: "Book Antiqua", serif;*/
-/*    line-height: 0;*/
-/*    font-size: 137%;*/
-/*    color: #052331;*/
-/*}*/
-
 .navbar li {
     font-family: "Helvetica Neue", serif;
-    font-weight: 100;
-    font-size: 160%;
+    font-weight: 200;
+
 }
 
 .navbar li a {
     color: #052331 !important;
+    font-size: 140%;
 }
 /*NAVBAR END*/
 
@@ -67,8 +36,10 @@ body {
     background-size: cover;
 }
 
-.index-jumbotron .display-2 {
-    font-weight: 500;
+.index-jumbotron h1 {
+    font-weight: 900;
+    font-size: 550%;
+    color: white;
 }
 /*JUMBOTRON END*/
 
@@ -102,7 +73,11 @@ body {
 
 .icon {
     font-size: 97px;
-    color: #4c8bf5;
+    color: #052331;
+}
+
+.missionvision .blueText {
+    color: #4c8bf5 !important;
 }
 /*MISSION VISION END*/
 
@@ -134,11 +109,13 @@ body {
 .services .col2 {
     background: url("../../images/Duediligence.jpg") no-repeat center;
     background-size: cover;
+    color: #3555D1;
 }
 
 .services .col3 {
     background: url("../../images/mng.jpg") no-repeat center;
     background-size: cover;
+    color: #3555D1;
 }
 
 .services .col4 {
@@ -190,6 +167,11 @@ body {
     font-weight: 400 !important;
     color: white;
 }
+
+.copyrights p {
+    font-family: "Helvetica Neue", serif;
+    font-weight: 200;
+}
 /*FOOTER END*/
 
 /*COPYRIGHTS*/
@@ -213,7 +195,8 @@ body {
 }
 
 .contact .content h1 {
-    font-size: 80px;
+    font-size: 90px;
+    font-weight: 900;
 }
 
 .contact {
@@ -230,9 +213,8 @@ body {
 }
 
 .careers-jumbotron .careers-header {
-    font-weight: 800;
-    font-size: 700%;
-    font-family: "Helvetica Neue", serif;
+    font-weight: 900;
+    font-size: 800%;
     color: white;
 }
 
@@ -244,7 +226,7 @@ body {
 
 .career-subtitle {
     font-size: 200%;
-    font-weight: 300;
+    /*font-weight: 300;*/
     font-family: "Helvetica Neue", serif;
 }
 
@@ -259,10 +241,51 @@ body {
     font-weight: 300;
     font-family: "Helvetica Neue", serif;
 }
-/*CAREERS PAGE*/
+
+.careers-form {
+    width: 400px;
+    margin: auto;
+}
 
 /*ABOUT PAGE*/
 .about-p {
     vertical-align: center !important;
 }
 /*/ABOUT PAGE*/
+
+/*MOBILE*/
+@media (max-width: 768px) {
+    .navbar a img{
+        width: 75%;
+        margin-left: 18%;
+    }
+
+    .index-jumbotron h1 {
+        font-weight: 800;
+        font-size: 350% !important;
+        margin-top: 5%;
+        line-height: 0.8;
+    }
+
+    .careers-jumbotron .careers-header {
+        font-size: 350% !important;
+        color: white;
+    }
+
+    .careers-form {
+        width: 300px;
+        margin: auto;
+    }
+
+    .contact .content h1 {
+        font-size: 70px !important;
+        font-weight: 900;
+    }
+
+    .contact .contact-subheader {
+        font-family: "Helvetica Neue", serif;
+        font-weight: 200;
+        font-size: 20px !important;
+    }
+
+}
