@@ -20,42 +20,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="765473f2-37b8-40b7-af7f-a025f9496f37" name="Default Changelist" comment="finished first draft for contact, privacy policy, careers and main page">
-      <change afterPath="$PROJECT_DIR$/.idea/auditph.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditphlocal/images/brighterfuture.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditphlocal/images/careers.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditphlocal/images/client.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditphlocal/images/community.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditphlocal/images/duediligence.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditphlocal/images/financialstatementaudit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditphlocal/images/people.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditphlocal/images/taxconsultancy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditphlocal/src/JS/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/auditphlocal/images/Duediligence.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/auditphlocal/images/advisory.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/auditphlocal/images/bir.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/auditphlocal/images/brightfuture.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/auditphlocal/images/city.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/auditphlocal/images/financialstatementaudit.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/auditphlocal/images/footerlogo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/auditphlocal/images/insurancecommission.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/auditphlocal/images/manage.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/auditphlocal/images/prc_logo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/auditphlocal/images/road.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/auditphlocal/images/sec.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/auditphlocal/images/taxconsultancy.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/auditphlocal/images/team.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/auditphlocal/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/auditphlocal/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/auditphlocal/src/CSS/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/auditphlocal/src/CSS/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/auditphlocal/src/HTML/About.html" beforeDir="false" afterPath="$PROJECT_DIR$/auditphlocal/src/HTML/About.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/auditphlocal/src/HTML/Careers.html" beforeDir="false" afterPath="$PROJECT_DIR$/auditphlocal/src/HTML/Careers.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/auditphlocal/src/HTML/Contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/auditphlocal/src/HTML/Contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/auditphlocal/src/HTML/PrivacyPolicy.html" beforeDir="false" afterPath="$PROJECT_DIR$/auditphlocal/src/HTML/PrivacyPolicy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/auditphlocal/src/JS/frontjs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auditphlocal/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/auditphlocal/.idea/auditph.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/auditphlocal/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/auditphlocal/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/auditphlocal/auditph.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/auditphlocal/images/brighterfuture.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/auditphlocal/images/careers.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/auditphlocal/images/client.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/auditphlocal/images/community.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/auditphlocal/images/duediligence.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/auditphlocal/images/financialstatementaudit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/auditphlocal/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/auditphlocal/images/mng.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/auditphlocal/images/people.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/auditphlocal/images/taxconsultancy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/auditphlocal/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/auditphlocal/src/CSS/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/auditphlocal/src/HTML/About.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/auditphlocal/src/HTML/Careers.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/auditphlocal/src/HTML/Contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/auditphlocal/src/HTML/PrivacyPolicy.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/auditphlocal/src/JS/main.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +76,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -136,6 +123,8 @@
       <workItem from="1599336018120" duration="8331000" />
       <workItem from="1601575004567" duration="2000" />
       <workItem from="1601836221062" duration="444000" />
+      <workItem from="1601879917987" duration="5000" />
+      <workItem from="1601879952668" duration="40000" />
     </task>
     <task id="LOCAL-00001" summary="finished first draft for contact, privacy policy, careers and main page">
       <created>1598748448440</created>
