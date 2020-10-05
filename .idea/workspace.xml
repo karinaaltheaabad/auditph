@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="765473f2-37b8-40b7-af7f-a025f9496f37" name="Default Changelist" comment="finished first draft for contact, privacy policy, careers and main page">
+      <change afterPath="$PROJECT_DIR$/.idea/auditph.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auditphlocal/images/brighterfuture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auditphlocal/images/careers.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auditphlocal/images/client.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auditphlocal/images/community.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auditphlocal/images/duediligence.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auditphlocal/images/financialstatementaudit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auditphlocal/images/people.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auditphlocal/images/taxconsultancy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auditphlocal/src/JS/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auditphlocal/images/Duediligence.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/auditphlocal/images/advisory.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/auditphlocal/images/bir.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/auditphlocal/images/brightfuture.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/auditphlocal/images/city.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/auditphlocal/images/financialstatementaudit.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/auditphlocal/images/footerlogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/auditphlocal/images/insurancecommission.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/auditphlocal/images/manage.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/auditphlocal/images/prc_logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/auditphlocal/images/road.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/auditphlocal/images/sec.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/auditphlocal/images/taxconsultancy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/auditphlocal/images/team.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/auditphlocal/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/auditphlocal/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auditphlocal/src/CSS/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/auditphlocal/src/CSS/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auditphlocal/src/HTML/About.html" beforeDir="false" afterPath="$PROJECT_DIR$/auditphlocal/src/HTML/About.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auditphlocal/src/HTML/Careers.html" beforeDir="false" afterPath="$PROJECT_DIR$/auditphlocal/src/HTML/Careers.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auditphlocal/src/HTML/Contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/auditphlocal/src/HTML/Contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auditphlocal/src/HTML/PrivacyPolicy.html" beforeDir="false" afterPath="$PROJECT_DIR$/auditphlocal/src/HTML/PrivacyPolicy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auditphlocal/src/JS/frontjs.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gSZdW04b03V5fWP97TlksrXVa1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/auditphlocal/images" />
+      <recent name="$PROJECT_DIR$/auditphlocal" />
+      <recent name="$PROJECT_DIR$/auditphlocal/src/JS" />
+      <recent name="$PROJECT_DIR$/auditphlocal/src/CSS" />
+      <recent name="$PROJECT_DIR$/auditphlocal/src/HTML" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="765473f2-37b8-40b7-af7f-a025f9496f37" name="Default Changelist" comment="" />
+      <created>1598110041540</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598110041540</updated>
+      <workItem from="1598110042765" duration="28580000" />
+      <workItem from="1598234388653" duration="4810000" />
+      <workItem from="1598305666110" duration="27671000" />
+      <workItem from="1598385489548" duration="9779000" />
+      <workItem from="1598461106452" duration="5972000" />
+      <workItem from="1598505418413" duration="20877000" />
+      <workItem from="1598664490722" duration="19610000" />
+      <workItem from="1598764979627" duration="7140000" />
+      <workItem from="1598938923394" duration="6479000" />
+      <workItem from="1599014236616" duration="2528000" />
+      <workItem from="1599030042948" duration="1123000" />
+      <workItem from="1599336018120" duration="8331000" />
+      <workItem from="1601575004567" duration="2000" />
+      <workItem from="1601836221062" duration="444000" />
+    </task>
+    <task id="LOCAL-00001" summary="finished first draft for contact, privacy policy, careers and main page">
+      <created>1598748448440</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598748448441</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="finished first draft for contact, privacy policy, careers and main page" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished first draft for contact, privacy policy, careers and main page" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="298" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598147423671">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="298" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1598147423671" />
+    <state x="638" y="329" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598234451591">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="638" y="329" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1792.1097@0.23.1792.1097" timestamp="1598234451591" />
+    <state x="661" y="274" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599430239786">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="661" y="274" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1599430239786" />
+    <state x="702" y="436" key="NewPhpFileDialog" timestamp="1598394604399">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="702" y="436" key="NewPhpFileDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1598394604399" />
+    <state x="0" y="398" key="SettingsEditor" timestamp="1598341859585">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="0" y="398" key="SettingsEditor/0.23.1792.1097@0.23.1792.1097" timestamp="1598341859585" />
+    <state x="365" y="294" key="Vcs.Push.Dialog.v2" timestamp="1598748537192">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="365" y="294" key="Vcs.Push.Dialog.v2/0.23.1792.1097@0.23.1792.1097" timestamp="1598748537192" />
+    <state x="553" y="475" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598748352582">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="553" y="475" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1792.1097@0.23.1792.1097" timestamp="1598748352582" />
+    <state x="358" y="294" key="new project wizard" timestamp="1598121146610">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="358" y="294" key="new project wizard/0.23.1792.1097@0.23.1792.1097" timestamp="1598121146610" />
+    <state x="681" y="444" width="670" height="676" key="search.everywhere.popup" timestamp="1598110610926">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="681" y="444" width="670" height="676" key="search.everywhere.popup/0.23.1792.1097@0.23.1792.1097" timestamp="1598110610926" />
+  </component>
+</project>

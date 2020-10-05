@@ -24,72 +24,54 @@ body {
 }
 
 .navbar li a {
-    color: #052331 !important;
+    color: #182454 !important;
     font-size: 140%;
 }
 /*NAVBAR END*/
 
 /*JUMBOTRON*/
 .index-jumbotron {
-    height: 90vmin;
-    background: url("../../images/city.jpg") no-repeat center;
+    height: 65vmin;
+    background: url("../../images/brighterfuture.png") no-repeat center;
     background-size: cover;
+
 }
 
 .index-jumbotron h1 {
-    font-weight: 900;
-    font-size: 550%;
+    font-weight: 800;
+    font-size: 600%;
+    text-shadow: 1px 1px 2px #3e3939;
+}
+
+.firsth1 {
+    color: #182454;
+}
+
+.secondh1 {
+    color: #4c8bf5;
+}
+
+.thirdh1 {
     color: white;
 }
 /*JUMBOTRON END*/
 
-/*ABOUT*/
-.about {
-    font-family: "Helvetica Neue", serif;
-    background-color: #F7F9FA;
-    margin-top: -6% !important;
+/* HOME-ABOUT PHRASE */
+.index-about {
+    background-color: #00126b;
 }
-/*ABOUT END*/
-
-/*MISSION VISION*/
-.about .missioncard {
-    font-family: "Helvetica Neue", serif;
-    background-color: white;
-    min-height: 300%;
-    color: #052331;
-    width: 100% !important;
+.index-about h1{
+    color: white;
+    font-weight: 800;
 }
-
-.missioncard h3 {
-    font-weight: 600;
-    font-size: 34px;
-}
-
-.missioncard h5 {
-    font-size: 20px;
-    font-weight: 100;
-    color: dimgrey;
-}
-
-.icon {
-    font-size: 97px;
-    color: #052331;
-}
-
-.missionvision .blueText {
-    color: #4c8bf5 !important;
-}
-/*MISSION VISION END*/
+/* HOME-ABOUT PHRASE END */
 
 /*SERVICES*/
 .services {
     width: 98%;
-    margin: 0 auto !important;
-    margin-top: -1% !important;
 }
 
 .services .list {
-    font-weight: 500;
     font-family: "Helvetica Neue", serif;
     font-size: 330%;
 }
@@ -101,34 +83,80 @@ body {
 }
 
 .services .col1 {
-    background: url("../../images/financialstatementaudit.jpg") no-repeat center;
+    background: url("../../images/financialstatementaudit.png") no-repeat center;
     background-size: cover;
     color: white;
 }
 
 .services .col2 {
-    background: url("../../images/Duediligence.jpg") no-repeat center;
+    background: url("../../images/taxconsultancy.png") no-repeat;
     background-size: cover;
-    color: #3555D1;
+    color: #00126b;
 }
 
 .services .col3 {
     background: url("../../images/mng.jpg") no-repeat center;
     background-size: cover;
-    color: #3555D1;
+    color: #00126b;
 }
 
 .services .col4 {
-    background: url("../../images/taxconsultancy.jpg") no-repeat center;
+    background: url("../../images/duediligence.png") no-repeat center;
     background-size: cover;
     color: white;
+
+}
+
+.first-1 {
+    font-weight: 100;
+}
+
+.first-2 {
+    font-weight: 500; 
 }
 
 /*SERVICES END*/
 
+/*MISSION*/
+.homepage-mission {
+font-family: "Helvetica Neue", serif;
+    background-color: #F7F9FA;
+    margin-top: -6% !important;    
+}
+
+.homepage-mission .missioncard {
+    font-family: "Helvetica Neue", serif;
+    background-color: white;
+    min-height: 300%;
+    color: #494a4f;
+    width: 100% !important;
+}
+
+.missioncard h3 {
+    font-weight: 300;
+    font-size: 34px;
+}
+
+.missioncard h5 {
+    font-size: 20px;
+    font-weight: 100;
+    color: dimgrey;
+}
+
+.icon {
+    font-size: 97px;
+    color: #182454;
+}
+
+.missionvision .blueText {
+    color: #00126b !important;
+    font-weight: 600;
+}
+/*MISSION END*/
+
 /*FOOTER*/
 .footer {
-    background-color: #052331;
+    background-color: #00126b;
     margin: 0 auto !important;
     bottom: 0;
     width: 100%;
@@ -176,7 +204,7 @@ body {
 
 /*COPYRIGHTS*/
 .copyrights {
-    background-color: #CEDFE2;
+    background-color: #dfe5f2;
     margin: 0 auto !important;
     display: inline-flex;
     width: 100%;
@@ -186,8 +214,8 @@ body {
 
 /*CONTACT PAGE*/
 .contact .contact-subheader {
-    font-family: "Helvetica Neue", serif;
     font-weight: 200;
+    color: black;
 }
 
 .contact .message {
@@ -195,45 +223,94 @@ body {
 }
 
 .contact .content h1 {
-    font-size: 90px;
+    font-size: 600%;
     font-weight: 900;
+    color: black;
 }
 
 .contact {
     vertical-align: center;
-    background-color: #CEDFE2;
+    background-color: #dfe5f2;
 }
+
+#contact-form small {
+    visibility: hidden; 
+}
+
+#contact-form.success input {
+    border-color: #2ecc71 !important; 
+}
+
+#contact-form.error input {
+    border-color: #e74c3c;;
+}
+
+#contact-form.error small {
+    visibility: visible; 
+    color: #e74c3c;
+}
+
+
 /*/CONTACT PAGE*/
 
 /*CAREERS PAGE*/
 .careers-jumbotron {
     height: 60vmin;
-    background: url("../../images/team.jpg") no-repeat center;
+    background: url("../../images/careers.JPG") no-repeat center;
     background-size: cover;
 }
 
 .careers-jumbotron .careers-header {
-    font-weight: 900;
-    font-size: 800%;
+    font-weight: 700;
+    font-size: 680%;
     color: white;
+    text-shadow: 1px 2px 2px #3e3939;
 }
 
 .careers-subheader {
     font-family: "Helvetica Neue", serif;
-    font-size: 400%;
-    color: #052331;
+    font-size: 300% !important;
+    font-weight: 700;
+    color: #182454;
 }
 
 .career-subtitle {
-    font-size: 200%;
-    /*font-weight: 300;*/
+    font-size: 50px;
     font-family: "Helvetica Neue", serif;
 }
 
+.career-qualifications {
+    font-size: 40px;
+    font-weight: 100;
+    font-family: "Helvetica Neue", serif;
+    text-shadow: 1px 1px 1px #3e3939;
+}
+
+.career-offer {
+    font-size: 40px;
+    font-weight: 700;
+    font-family: "Helvetica Neue", serif;
+    text-shadow: 1px 1px 1px grey;
+}
+
+.check li {
+    list-style: none;
+    font-weight: 500 !important; 
+}
+
+  
+.check li:before {
+    content:"\2714\0020";
+  }
+
 .careers-main li {
     font-family: "Helvetica Neue", serif;
-    font-size: 130%;
+    font-size: 150%;
     font-weight: 300;
+}
+
+.careers {
+    background-color: #dfe5f2;
 }
 
 .career-info {
@@ -250,6 +327,82 @@ body {
 /*ABOUT PAGE*/
 .about-p {
     vertical-align: center !important;
+    background-color: #00126b;
+}
+
+.about-p .firstheader {
+    color: white;
+    font-weight: 700;
+    font-size: 36px;
+}
+
+.about-p .first-subheader {
+    color: white;
+    font-size: 27px;
+}
+
+.about-mv .mv-image {
+    height: 1000px; 
+}
+
+.client-image {
+    object-fit: cover;
+    width: 104%;
+    height: 100%;
+}
+
+.community-image {
+    object-fit: cover;
+    width: 104%;
+    height: 100%;
+}
+
+.people-image {
+    object-fit: cover;
+    width: 104%;
+    height: 100%;
+}
+
+.header-bold {
+    font-size: 100px;
+    font-family: "Helvetica", serif;
+    color: #00126b;
+    font-weight: 600;
+}
+
+.header-thin {
+    font-size: 300%;
+    font-family: "Helvetica", serif;
+    font-weight: 100;
+}
+
+.content-about {
+    color: dimgrey;
+    font-size: 150%;
+    font-weight: 200;
+    font-family: "Helvetica Neue", sans-serif;
+
+}
+
+.vision-content {
+    font-size: 300%;
+    font-weight: 400;
+    font-family: "Helvetica Neue", sans-serif;
+    color: #00126b;
+}
+
+.mv {
+    font-weight: 900;
+    font-size: 600%;
+    color: black;
+}
+
+.about-mv {
+    background-color: #dfe5f2;
+}
+
+.vision-row {
+    height: 250px; 
 }
 /*/ABOUT PAGE*/
 
@@ -288,4 +441,10 @@ body {
         font-size: 20px !important;
     }
 
+    .index-about {
+        font-size: 10px;
+    }
+
 }
+
+/*052331*/
