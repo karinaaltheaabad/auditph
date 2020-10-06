@@ -21,28 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="765473f2-37b8-40b7-af7f-a025f9496f37" name="Default Changelist" comment="finished first draft for contact, privacy policy, careers and main page">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/auditphlocal/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/auditphlocal/.idea/auditph.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/auditphlocal/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/auditphlocal/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/auditphlocal/auditph.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/auditphlocal/images/brighterfuture.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/auditphlocal/images/careers.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/auditphlocal/images/client.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/auditphlocal/images/community.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/auditphlocal/images/duediligence.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/auditphlocal/images/financialstatementaudit.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/auditphlocal/images/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/auditphlocal/images/mng.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/auditphlocal/images/people.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/auditphlocal/images/taxconsultancy.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/auditphlocal/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/auditphlocal/src/CSS/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/auditphlocal/src/HTML/About.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/auditphlocal/src/HTML/Careers.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/auditphlocal/src/HTML/Contact.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/auditphlocal/src/HTML/PrivacyPolicy.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/auditphlocal/src/JS/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,6 +104,7 @@
       <workItem from="1601836221062" duration="444000" />
       <workItem from="1601879917987" duration="5000" />
       <workItem from="1601879952668" duration="40000" />
+      <workItem from="1601944077080" duration="418000" />
     </task>
     <task id="LOCAL-00001" summary="finished first draft for contact, privacy policy, careers and main page">
       <created>1598748448440</created>
